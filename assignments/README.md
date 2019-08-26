@@ -12,11 +12,11 @@ TBA
 
 TBA
 
-## Assignment 3: Python
+## Assignment 3: Data Management Plans
 
 TBA
 
-## Assignment 4: Data Management Plans
+## Assignment 4: Python
 
 TBA
 
