@@ -22,7 +22,7 @@ Once you have successfully logged on, `cd` into your `BCB546X-Fall2019` folder a
 $ git pull origin master
 ```
 
-Now, once you `cd` into your `Week_02` folder, you should see a shell script titled `blastn.sh`.  This is a SLURM script for submitting a blast job.  Open and inspect the shell script using the following command:
+Now, once you `cd` into your `Week_03` folder, you should see a shell script titled `blastn.sh`.  This is a SLURM script for submitting a blast job.  Open and inspect the shell script using the following command:
 
 ```
 $ vi blastn.sh
@@ -33,9 +33,9 @@ This will open the file using Visual Editor or "Vi", which is the default editor
 
 Useful commands will include `i` for "insert", `x` for "delete" and `:x` for "save and exit"
 
-Once you have the SLURM script edited and ready to go, `cd` to your root directory, create an `in_class` folder, `cd` into this new folder, and launch the script from there.  You'll need the path to the SLURM script so it may be useful to copy the results of a `pwd` before leaving the `Week_02` folder.  For example, to schedule the job from my 	`in_class` folder, I would type:
+Once you have the SLURM script edited and ready to go, `cd` to your root directory, create an `in_class` folder, `cd` into this new folder, and launch the script from there.  You'll need the path to the SLURM script so it may be useful to copy the results of a `pwd` before leaving the `Week_03` folder.  For example, to schedule the job from my 	`in_class` folder, I would type:
 
-`$ sbatch /home/mhufford/BCB546X-Fall2019/course-files/Week_02/blastn.sh`
+`$ sbatch /home/mhufford/BCB546X-Fall2019/course-files/Week_03/blastn.sh`
 
 Now, monitor the job using commands we learned in class:
 
