@@ -1,4 +1,4 @@
-##BCB/EEOB546X: UNIX Exercise 1
+## BCB/EEOB546X: UNIX Exercise 1
 
 While you may be able to complete this exercise without issue on your personal laptops using GitBash for Windows or in your Mac Terminal application, I would recommend copying the `SNPs` folder in the `Week_01` folder to the student cluster hpc-class.  I have tested this assignment in this UNIX environment, and you should not run into problems there.
 
