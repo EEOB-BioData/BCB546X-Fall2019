@@ -23,7 +23,7 @@
 ## ** Document all of your code (and Dr. X's code) very thoroughly so that it is clear what you did.
 ## ** Be sure to cite (by providing URLs or other appropriate citations) information appropriately in your documented notebook.
 ## ** Commit and push your completed work in the Jupyter notebook to your repository.
-## ** Submit the URL to your git repository via Canvas by the end of the day on November 22, 2019.
+## ** Submit the URL to your git repository via Canvas by the end of the day on November 27, 2019.
 
 #-- Disclaimer --#
 ## Not all of these tasks have been covered in class and you will have to use online resources to find out how to do some of these tasks.
